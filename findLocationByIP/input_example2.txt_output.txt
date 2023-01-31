@@ -1,0 +1,100 @@
+RU,Russian Federation,Sankt-Peterburg,Saint Petersburg: 30164
+CA,Canada,Quebec,Montreal: 6203
+CA,Canada,Northwest Territories,Tsiigehtchic: 426
+NL,Netherlands,Flevoland,Almere Stad: 8665
+CA,Canada,Nova Scotia,Halifax: 9722
+CN,China,Zhejiang,Wenzhou: 669
+DE,Germany,Hessen,Frankfurt am Main: 5262
+CA,Canada,British Columbia,Kelowna: 763
+RU,Russian Federation,-,-: 1399
+KW,Kuwait,Al 'Asimah,Kuwait: 593
+RO,Romania,Bucuresti,Bucharest: 759
+GB,United Kingdom of Great Britain and Northern Ireland,England,Gloucester: 444
+CA,Canada,Alberta,Canmore: 826
+CA,Canada,Alberta,Lethbridge: 3659
+CA,Canada,Manitoba,Indian Bay: 1232
+AU,Australia,New South Wales,Sydney: 936
+IL,Israel,Tel Aviv,Tel Aviv: 11746
+SG,Singapore,Singapore,Singapore: 61791
+-,-,-,-: 2111
+US,United States of America,California,Los Angeles: 1608
+CA,Canada,Alberta,Lloydminster: 2382
+US,United States of America,Wyoming,Cheyenne: 3123
+US,United States of America,California,Davis: 821
+AT,Austria,Wien,Vienna: 55373
+GB,United Kingdom of Great Britain and Northern Ireland,England,Coton: 1751
+US,United States of America,Iowa,Des Moines: 175974
+CA,Canada,Quebec,Beauharnois: 796
+BE,Belgium,Brussels Hoofdstedelijk Gewest,Brussels: 23586
+FI,Finland,Uusimaa,Helsinki: 29217
+JP,Japan,Tokyo,Tokyo: 34870
+US,United States of America,Louisiana,Monroe: 679
+RU,Russian Federation,Moskva,Moscow: 37481
+CA,Canada,Saskatchewan,Saskatoon: 2277
+CA,Canada,British Columbia,Courtenay: 3778
+US,United States of America,California,Mountain View: 11100
+US,United States of America,Texas,Austin: 7503
+CA,Canada,Ontario,Toronto: 2275029
+CA,Canada,Alberta,Bilby: 740
+CA,Canada,Quebec,Verdun: 488
+IE,Ireland,Dublin,Dublin: 111407
+CA,Canada,Saskatchewan,Regina: 1144
+CA,Canada,Alberta,Banff: 629
+NL,Netherlands,Zuid-Holland,The Hague: 16525
+CH,Switzerland,Zurich,Zurich: 1748
+MT,Malta,Gharb,Birbuba: 1438
+IM,Isle of Man,Isle of Man,Douglas: 11465
+US,United States of America,Washington,Redmond: 5911
+CA,Canada,Quebec,Quebec: 3023667
+US,United States of America,Illinois,Des Plaines: 16771
+CN,China,Beijing,Beijing: 572
+CA,Canada,British Columbia,Burnaby: 1480
+MT,Malta,Valletta,Valletta: 2296
+CN,China,Shanghai,Shanghai: 581
+CH,Switzerland,Bern,Bern: 2428
+NL,Netherlands,Noord-Holland,Amsterdam: 1882774
+HK,Hong Kong,Hong Kong,Hong Kong: 372776
+CA,Canada,Alberta,Bonnyville: 911
+QA,Qatar,Ad Dawhah,Doha: 2620
+RU,Russian Federation,Udmurtskaya Respublika,Sarapul: 2924
+CA,Canada,Ontario,Ottawa: 1244
+FR,France,Ile-de-France,Paris: 2386
+US,United States of America,Virginia,Boydton: 2529
+CA,Canada,Ontario,London: 689
+CA,Canada,Saskatchewan,Yorkton: 487
+CA,Canada,British Columbia,Langley: 875
+CA,Canada,Alberta,Red Deer: 2699
+CA,Canada,British Columbia,Ferguson: 663
+GB,United Kingdom of Great Britain and Northern Ireland,England,Warrington: 427
+PL,Poland,Mazowieckie,Warsaw: 1876
+CA,Canada,British Columbia,Vancouver: 3090
+IL,Israel,HaMerkaz,Even Yehuda: 517
+RU,Russian Federation,Novosibirskaya oblast',Novosibirsk: 6095
+BE,Belgium,Namur,Namur: 11135
+UA,Ukraine,Kyiv,Kiev: 2446
+MY,Malaysia,Wilayah Persekutuan Kuala Lumpur,Kuala Lumpur: 46386
+GB,United Kingdom of Great Britain and Northern Ireland,England,Reading: 586
+CA,Canada,Alberta,Medicine Hat: 3396
+CA,Canada,Alberta,Edson: 628
+GB,United Kingdom of Great Britain and Northern Ireland,England,London: 12124
+US,United States of America,California,San Francisco: 9142
+CA,Canada,Ontario,Niagara Falls: 1124
+CA,Canada,Manitoba,Winnipeg: 526
+US,United States of America,Texas,League City: 770
+US,United States of America,Minnesota,Rochester: 602
+CA,Canada,Alberta,Hinton: 457
+CW,Curacao,Curacao,Willemstad: 32066
+CA,Canada,British Columbia,Pineview: 878
+CA,Canada,Alberta,Edmonton: 13773
+US,United States of America,Virginia,Washington: 154638
+CA,Canada,Alberta,Lac La Biche: 430
+US,United States of America,Illinois,Chicago: 22592
+QA,Qatar,Ar Rayyan,Ar Rayyan: 6837
+CA,Canada,British Columbia,Kootenay Bay: 462
+US,United States of America,Texas,San Antonio: 451
+CA,Canada,Alberta,Fort McMurray: 604
+US,United States of America,Florida,Miami: 3074
+PR,Puerto Rico,Luquillo,Luquillo: 3048
+US,United States of America,Virginia,Arlington: 704
+CA,Canada,Alberta,Calgary: 361398
+CA,Canada,Alberta,Pincher Creek: 460

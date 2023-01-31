@@ -1,0 +1,8 @@
+v = 1
+p = 0.18
+Number of wins = 489567 ===> Probability = 48.96%
+Number of losses = 510433 ===> Probability = 51.04%
+
+Average number of rolling the dice for each game = 3.37
+
+v = 1

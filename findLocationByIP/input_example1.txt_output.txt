@@ -1,0 +1,7 @@
+CA,Canada,British Columbia,Kootenay Bay: 20511834752
+CA,Canada,Alberta,Canmore: 20815609793
+CA,Canada,British Columbia,Vancouver: 109216697600
+CA,Canada,Alberta,Edmonton: 140618649710
+CA,Canada,Alberta,Medicine Hat: 40971692574
+CA,Canada,Nova Scotia,Halifax: 56580935145
+CA,Canada,Alberta,Calgary: 3506752362451

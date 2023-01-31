@@ -1,0 +1,3 @@
+3.425	mean
+2.75297	variance
+1.65921	std-dev
