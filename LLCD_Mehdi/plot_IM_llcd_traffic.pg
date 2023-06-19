@@ -1,0 +1,20 @@
+reset
+set terminal pdf
+set output "IM_LLCD_Traffic.pdf"
+set title "LLCD of Traffic Bytes for Four IM Apps in a Week of 2019"
+
+set xlabel "Log2(Bytes)"
+set ylabel "CCDF"
+set logscale y 
+set yrange [0.0000001:]
+unset mxtics
+unset mytics
+set style data lines
+set grid xtics
+set grid ytics
+
+plot\
+"traffic_f.dat_LLCD.txt" using 1:(1.0 - $3) with l lw 1.3 lc rgb "#4267b2" title "Messenger",\
+"traffic_h.dat_LLCD.txt" using 1:(1.0 - $3) with l dt 4 lw 1.3 lc rgb "#1F8456" title "Hangouts",\
+"traffic_s.dat_LLCD.txt" using 1:(1.0 - $3) with l dt (5,5) lw 1.3 lc rgb "#000000" title "Snapchat",\
+"traffic_w.dat_LLCD.txt" using 1:(1.0 - $3) with l dt '__' lw 1.3 lc rgb "#CD201F" title "WeChat"
