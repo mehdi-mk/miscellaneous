@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Mehdi's Minesweeper</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+<h id="header">Play Minesweeper here!</h>
+
+<div class="menu">
+    <div class="menuButton" id="menu1" onclick="easyGame()">Easy</div>
+    <div class="menuButton" id="menu2" onclick="hardGame()">Hard</div>
+    <div class="menuButton" id="menu3" onclick="window.location.reload()">Reset</div>
+</div>
+
+<div id="overlay">
+    <div id="overlayin">
+        <p class="big glow">Congratulations, you won!!!</p>
+        <p class="darker">Click anywhere to start a new game.</p>
+    </div>
+</div>
+
+<div id="overlay1">
+    <div id="overlayin">
+        <p class="big glow">Oh sorry!, you got exploded!!!</p>
+        <p class="darker">Click anywhere to start a new game.</p>
+    </div>
+</div>
+
+<div id="timer">00:00</div>
+<div id="status">Remaining mines: <span class="remainingMines">0</span></div>
+
+<div id="btnContainer"></div>
+
+<div>
+    <button type="button" Id="startBtn" onclick="playing()">START PLAYING</button>
+</div>
+
+<div id="levelCheck">Please choose the game level first then start playing!</div>
+
+<script src="msgame.js"></script>
+</body>
+</html>
